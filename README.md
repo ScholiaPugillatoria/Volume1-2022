@@ -10,4 +10,4 @@
 
 Written materials are ©2022–2023 Scholia Pugillātōria Editorial Review Board and the respective article authors, identified pseudonymously.  Permission is hereby granted to make and distribute copies for personal use.
 
-Join us on [Urbit](https://urbit.org) at `~magbel/scholia-pugillatoria` and Twitter [@pugillatoria](https://twitter.com/pugillatoria).
+Join us on [Urbit](https://urbit.org) at `~sovref-hasfyr/scholia-pugillatoria` and Twitter [@pugillatoria](https://twitter.com/pugillatoria).
